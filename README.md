@@ -1,19 +1,32 @@
-<h1 align="center">Hi👋, I'm Shashank TJ!</h1>
+<div align="center">
 
-<h3 align="center">Cloud & DevOps Engineer</h3>
+# SHASHANK TJ
 
-<p align="center">
-  Building cloud infrastructure, automation, containerized applications, and CI/CD pipelines.
-</p>
+### CLOUD & DEVOPS ENGINEER
 
-<p align="center">
-  <a href="https://github.com/shashanksgitwithhub">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://shashanktj.com">
-    <img src="https://img.shields.io/badge/Portfolio-shashanktj.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
+**Build · Automate · Deploy · Learn**
+
+Building cloud infrastructure, automation, containerized applications, and CI/CD pipelines.
+
+<br>
+
+<a href="https://github.com/shashanksgitwithhub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://shashanktj.com">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
 
@@ -29,103 +42,286 @@ I enjoy turning infrastructure concepts into hands-on projects and continuously 
 
 ## Technical Skills
 
+<table>
+<tr>
+
+<td width="25%" align="center">
+
 ### Cloud & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,terraform" height="55">
 
-**AWS:** EC2, VPC, IAM, S3, Route 53, CloudFront, Lambda, API Gateway, DynamoDB, RDS, Aurora, CloudWatch, Auto Scaling, Load Balancing, NAT Gateway, VPC Peering, Transit Gateway
+<br><br>
+
+AWS  
+Terraform
+
+</td>
+
+<td width="25%" align="center">
 
 ### DevOps & Automation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" height="55">
 
-**Tools:** Docker, Kubernetes, Git, GitHub, GitHub Actions, Terraform
+<br><br>
 
-### Operating Systems & Scripting
+Docker  
+Kubernetes  
+Git  
+GitHub Actions
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" />
-</p>
+</td>
 
-**Skills:** Linux Administration, Bash Scripting, SSH, User Management, File Management, Process Management, System Monitoring, Automation
+<td width="25%" align="center">
+
+### Linux & Scripting
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" height="55">
+
+<br><br>
+
+Linux  
+Ubuntu  
+Bash  
+Python
+
+</td>
+
+<td width="25%" align="center">
 
 ### Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js" height="55">
 
-**Technologies:** Python, HTML, CSS, JavaScript
+<br><br>
+
+Python  
+HTML  
+CSS  
+JavaScript
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-### 1. Enterprise Infrastructure Platform
+<table>
+<tr>
 
-Production-oriented cloud infrastructure built using AWS and Terraform, with a focus on infrastructure automation, Linux administration, containerization, monitoring, security, and DevOps practices.
+<td width="33%" valign="top">
 
-**Technologies:** AWS · Terraform · Linux · Docker · Kubernetes · Git · Monitoring · CI/CD
+### Enterprise Infrastructure Platform
 
----
+Production-oriented cloud infrastructure built using AWS and Terraform.
 
-### 2. Production Linux Server Administration & Automation
+**Focus**
 
-Hands-on Linux administration project focused on server configuration, system management, automation, monitoring, Bash scripting, users, permissions, processes, and production-oriented operational practices.
+- Infrastructure as Code
+- Linux Administration
+- Docker
+- Kubernetes
+- Monitoring
+- Security
+- CI/CD
 
-**Technologies:** Linux · Ubuntu · Bash · SSH · Shell Scripting · System Administration
+**Stack**
 
----
+`AWS` `Terraform` `Linux` `Docker` `Kubernetes`
 
-### 3. Production CI/CD Pipeline with Docker
+<br>
 
-A production-focused CI/CD implementation that automates application delivery by building Docker images, publishing them to Amazon ECR, and deploying the application through an automated GitHub Actions pipeline.
+<a href="YOUR_PROJECT_LINK">View Project →</a>
 
-**Technologies:** GitHub Actions · Docker · AWS ECR · AWS · CI/CD
+</td>
 
----
+<td width="33%" valign="top">
 
-### 4. Serverless Cloud Resume Platform
+### Production Linux Server Administration & Automation
 
-A serverless cloud-based resume platform built using AWS services and Infrastructure as Code. The architecture includes a static website, CDN, DNS, serverless API, visitor counter, and database.
+Hands-on Linux administration project focused on server configuration, automation, monitoring, and operational practices.
 
-**Technologies:** AWS · Terraform · S3 · CloudFront · Route 53 · API Gateway · Lambda · DynamoDB · IAM · CloudWatch
+**Focus**
 
----
+- Linux Administration
+- Bash
+- SSH
+- Users & Permissions
+- System Monitoring
+- Automation
 
-### 5. Emotion Recognition Using Deep Learning
+**Stack**
 
-A deep learning project for facial emotion recognition using the FER2013 dataset, computer vision, and neural network-based image classification.
+`Linux` `Ubuntu` `Bash` `SSH`
 
-**Technologies:** Python · TensorFlow · Keras · OpenCV · Deep Learning · FER2013
+<br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Production CI/CD Pipeline with Docker
+
+Automated application delivery using GitHub Actions, Docker, and AWS ECR.
+
+**Focus**
+
+- CI/CD
+- Docker
+- GitHub Actions
+- AWS ECR
+- Automated Deployment
+
+**Stack**
+
+`GitHub Actions` `Docker` `AWS ECR`
+
+<br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Serverless Cloud Resume Platform
+
+A serverless resume platform built using AWS services and Infrastructure as Code.
+
+**Architecture**
+
+`S3` → `CloudFront` → `Route 53`
+
+`API Gateway` → `Lambda` → `DynamoDB`
+
+**Stack**
+
+`AWS` `Terraform` `S3` `CloudFront` `Lambda` `DynamoDB`
+
+<br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Emotion Recognition Using Deep Learning
+
+A deep learning project for facial emotion recognition using the FER2013 dataset and computer vision.
+
+**Focus**
+
+- Deep Learning
+- Image Classification
+- Computer Vision
+- Model Training
+
+**Stack**
+
+`Python` `TensorFlow` `Keras` `OpenCV`
+
+<br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Cloud & DevOps Focus
 
-```text
-Cloud Infrastructure
-        ↓
-Infrastructure as Code
-        ↓
-Linux & Server Administration
-        ↓
-Containerization
-        ↓
-CI/CD Automation
-        ↓
-Monitoring & Operations
-```
+<div align="center">
+
+### Cloud Infrastructure
+
+**↓**
+
+### Infrastructure as Code
+
+**↓**
+
+### Linux & Server Administration
+
+**↓**
+
+### Containerization
+
+**↓**
+
+### CI/CD Automation
+
+**↓**
+
+### Monitoring & Operations
+
+</div>
+
+My current focus is building practical projects that combine these areas into complete, deployable systems.
+
+---
+
+## Currently Working On
+
+<table>
+<tr>
+<td>
+
+- AWS Cloud Infrastructure
+- Terraform Infrastructure as Code
+- Linux Server Administration
+- Docker & Containerization
+- GitHub Actions
+- CI/CD Automation
+
+</td>
+
+<td>
+
+- AWS ECR
+- Kubernetes
+- Cloud Architecture
+- Infrastructure Automation
+- DevOps Projects
+- Production-oriented workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Connect With Me
-<p align="center"> <a href="https://shashanktj.com"> 
-<img src="https://img.shields.io/badge/Portfolio-shashanktj.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"> </a> 
-<a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
-<a href="mailto:shashanktj5ce@gmail.com"> 
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p> <p align="center"> <b>Building. Automating. Learning.</b> </p>
+
+<div align="center">
+
+<a href="https://shashanktj.com">
+<img src="https://img.shields.io/badge/Portfolio-shashanktj.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+**Building. Automating. Learning.**
+
+</div>
