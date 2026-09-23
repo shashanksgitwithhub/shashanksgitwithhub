@@ -1,28 +1,22 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%">
+</p>
+
 <div align="center">
-
-# SHASHANK TJ
-
-### CLOUD & DEVOPS ENGINEER
-
-**Build · Automate · Deploy · Learn**
 
 Building cloud infrastructure, automation, containerized applications, and CI/CD pipelines.
 
 <br>
 
-<a href="https://github.com/shashanksgitwithhub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="https://shashanktj.com">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/shashank-tj-s050724">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shashanktj5ce@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -45,61 +39,67 @@ I enjoy turning infrastructure concepts into hands-on projects and continuously 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### Cloud & Infrastructure
+<h3>Cloud & Infrastructure</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,terraform" height="55">
 
 <br><br>
 
-AWS  
-Terraform
+<b>AWS</b><br>
+EC2 · VPC · IAM · S3<br>
+Lambda · API Gateway<br>
+CloudFront · Route 53<br>
+DynamoDB · RDS · CloudWatch
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### DevOps & Automation
+<h3>DevOps & Automation</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" height="55">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,git,githubactions" height="55">
 
 <br><br>
 
-Docker  
-Kubernetes  
-Git  
-GitHub Actions
+<b>DevOps Tools</b><br>
+Docker · Kubernetes<br>
+Ansible · Git · GitHub<br>
+GitHub Actions<br>
+CI/CD Automation
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### Linux & Scripting
+<h3>Linux & Scripting</h3>
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" height="55">
 
 <br><br>
 
-Linux  
-Ubuntu  
-Bash  
-Python
+<b>System Administration</b><br>
+Linux · Ubuntu<br>
+Bash Scripting<br>
+SSH · Users & Permissions<br>
+Processes · Monitoring
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### Development
+<h3>Development</h3>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js" height="55">
 
 <br><br>
 
-Python  
-HTML  
-CSS  
-JavaScript
+<b>Programming</b><br>
+Python<br>
+HTML · CSS · JavaScript<br>
+Automation Scripts<br>
+Application Development
 
 </td>
 
@@ -113,76 +113,48 @@ JavaScript
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Enterprise Infrastructure Platform
+<h3>Enterprise Infrastructure Platform</h3>
 
-Production-oriented cloud infrastructure built using AWS and Terraform.
-
-**Focus**
-
-- Infrastructure as Code
-- Linux Administration
-- Docker
-- Kubernetes
-- Monitoring
-- Security
-- CI/CD
-
-**Stack**
-
-`AWS` `Terraform` `Linux` `Docker` `Kubernetes`
+Production-oriented AWS infrastructure built with Terraform, focusing on automation, Linux, containers, monitoring, security, and CI/CD.
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes" height="35">
+
+<br><br>
+
+<code>AWS</code>
+<code>Terraform</code>
+<code>Linux</code>
+<code>Docker</code>
+<code>Kubernetes</code>
+
+<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Production Linux Server Administration & Automation
+<h3>Production Linux Server Administration & Automation</h3>
 
-Hands-on Linux administration project focused on server configuration, automation, monitoring, and operational practices.
-
-**Focus**
-
-- Linux Administration
-- Bash
-- SSH
-- Users & Permissions
-- System Monitoring
-- Automation
-
-**Stack**
-
-`Linux` `Ubuntu` `Bash` `SSH`
+Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
 
 <br>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible" height="35">
 
-</td>
+<br><br>
 
-<td width="33%" valign="top">
+<code>Linux</code>
+<code>Ubuntu</code>
+<code>Bash</code>
+<code>Ansible</code>
 
-### Production CI/CD Pipeline with Docker
-
-Automated application delivery using GitHub Actions, Docker, and AWS ECR.
-
-**Focus**
-
-- CI/CD
-- Docker
-- GitHub Actions
-- AWS ECR
-- Automated Deployment
-
-**Stack**
-
-`GitHub Actions` `Docker` `AWS ECR`
-
-<br>
+<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
@@ -194,21 +166,22 @@ Automated application delivery using GitHub Actions, Docker, and AWS ECR.
 
 <td width="50%" valign="top">
 
-### Serverless Cloud Resume Platform
+<h3>Production CI/CD Pipeline with Docker</h3>
 
-A serverless resume platform built using AWS services and Infrastructure as Code.
-
-**Architecture**
-
-`S3` → `CloudFront` → `Route 53`
-
-`API Gateway` → `Lambda` → `DynamoDB`
-
-**Stack**
-
-`AWS` `Terraform` `S3` `CloudFront` `Lambda` `DynamoDB`
+Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=githubactions,docker,aws" height="35">
+
+<br><br>
+
+<code>GitHub Actions</code>
+<code>Docker</code>
+<code>AWS ECR</code>
+<code>CI/CD</code>
+
+<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
@@ -216,22 +189,73 @@ A serverless resume platform built using AWS services and Infrastructure as Code
 
 <td width="50%" valign="top">
 
-### Emotion Recognition Using Deep Learning
+<h3>Serverless Cloud Resume Platform</h3>
 
-A deep learning project for facial emotion recognition using the FER2013 dataset and computer vision.
-
-**Focus**
-
-- Deep Learning
-- Image Classification
-- Computer Vision
-- Model Training
-
-**Stack**
-
-`Python` `TensorFlow` `Keras` `OpenCV`
+Serverless resume platform built with AWS and Terraform, including static hosting, CDN, DNS, API, visitor counter, and database.
 
 <br>
+
+<code>S3</code>
+→
+<code>CloudFront</code>
+→
+<code>Route 53</code>
+
+<br><br>
+
+<code>API Gateway</code>
+→
+<code>Lambda</code>
+→
+<code>DynamoDB</code>
+
+<br><br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Emotion Recognition Using Deep Learning</h3>
+
+Deep learning project for facial emotion recognition using FER2013, image classification, and computer vision.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="35">
+
+<br><br>
+
+<code>Python</code>
+<code>TensorFlow</code>
+<code>Keras</code>
+<code>OpenCV</code>
+
+<br><br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>CloudVault</h3>
+
+Personal cloud storage and file management platform built around UGREEN NAS infrastructure with controlled storage access and administration.
+
+<br><br>
+
+<code>UGREEN NAS</code>
+<code>Cloud Storage</code>
+<code>Linux</code>
+<code>Networking</code>
+
+<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
@@ -244,33 +268,99 @@ A deep learning project for facial emotion recognition using the FER2013 dataset
 
 ## Cloud & DevOps Focus
 
-<div align="center">
+<table>
+<tr>
 
-### Cloud Infrastructure
+<td align="center" width="16%">
 
-**↓**
+<img src="https://skillicons.dev/icons?i=aws" height="45">
 
-### Infrastructure as Code
+<br><br>
 
-**↓**
+<b>Cloud</b>
 
-### Linux & Server Administration
+<br>
 
-**↓**
+AWS Infrastructure
 
-### Containerization
+</td>
 
-**↓**
+<td align="center" width="16%">
 
-### CI/CD Automation
+<h2>→</h2>
 
-**↓**
+</td>
 
-### Monitoring & Operations
+<td align="center" width="16%">
 
-</div>
+<img src="https://skillicons.dev/icons?i=terraform" height="45">
 
-My current focus is building practical projects that combine these areas into complete, deployable systems.
+<br><br>
+
+<b>Infrastructure</b>
+
+<br>
+
+Terraform / IaC
+
+</td>
+
+<td align="center" width="16%">
+
+<h2>→</h2>
+
+</td>
+
+<td align="center" width="16%">
+
+<img src="https://skillicons.dev/icons?i=linux,docker" height="45">
+
+<br><br>
+
+<b>Systems</b>
+
+<br>
+
+Linux / Containers
+
+</td>
+
+<td align="center" width="16%">
+
+<h2>→</h2>
+
+</td>
+
+<td align="center" width="16%">
+
+<img src="https://skillicons.dev/icons?i=githubactions,kubernetes" height="45">
+
+<br><br>
+
+<b>DevOps</b>
+
+<br>
+
+CI/CD / Kubernetes
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<b>Cloud Infrastructure → Infrastructure as Code → Linux → Containers → CI/CD → Operations</b>
+
+</p>
+
+<p align="center">
+
+My current focus is building practical projects that combine these areas into complete, automated, and deployable systems.
+
+</p>
 
 ---
 
@@ -278,29 +368,40 @@ My current focus is building practical projects that combine these areas into co
 
 <table>
 <tr>
-<td>
+
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
 
 - AWS Cloud Infrastructure
 - Terraform Infrastructure as Code
 - Linux Server Administration
+- Ansible Configuration Management
+- Cloud Architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### DevOps & Automation
+
 - Docker & Containerization
 - GitHub Actions
 - CI/CD Automation
-
-</td>
-
-<td>
-
 - AWS ECR
 - Kubernetes
-- Cloud Architecture
 - Infrastructure Automation
-- DevOps Projects
-- Production-oriented workflows
 
 </td>
+
 </tr>
 </table>
+
+<p align="center">
+
+<b>Building practical cloud and DevOps projects through hands-on implementation.</b>
+
+</p>
 
 ---
 
