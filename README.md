@@ -9,7 +9,7 @@ Building cloud infrastructure, automation, containerized applications, and CI/CD
 <br>
 
 <a href="https://shashanktj.com">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="www.linkedin.com/in/shashank-tj-s050724">
@@ -410,14 +410,14 @@ My current focus is building practical projects that combine these areas into co
 <div align="center">
 
 <a href="https://shashanktj.com">
-<img src="https://img.shields.io/badge/Portfolio-shashanktj.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-shashanktj.com-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="shashank-tj-s050724">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shashanktj5ce@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
