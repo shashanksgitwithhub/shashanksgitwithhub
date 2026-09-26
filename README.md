@@ -183,7 +183,7 @@ Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 <br><br>
 
-<a href="production-cicd-pipeline">View Project →</a>
+<a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
 
 </td>
 
