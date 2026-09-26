@@ -183,7 +183,7 @@ Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 <br><br>
 
-<a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
+<a href="https://github.com/shashanksgitwithhub/production-cicd-pipeline">View Project →</a>
 
 </td>
 
@@ -211,7 +211,7 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+<a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
 
 </td>
 
