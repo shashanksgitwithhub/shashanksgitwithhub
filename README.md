@@ -183,7 +183,7 @@ Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+<a href="production-cicd-pipeline">View Project →</a>
 
 </td>
 
