@@ -423,6 +423,6 @@ My current focus is building practical projects that combine these areas into co
 
 <br><br>
 
-**Building. Automating. Learning.**
+<h3>Building. Automating. Learning.</h3>
 
 </div>
