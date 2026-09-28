@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Building cloud infrastructure, automation, containerized applications, and CI/CD pipelines.
+<h3>Building cloud infrastructure, automation, containerized applications, and CI/CD pipelines.</h3>
 
 <br>
 
