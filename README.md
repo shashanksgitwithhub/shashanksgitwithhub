@@ -238,7 +238,7 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+<a href="https://github.com/shashanksgitwithhub/real-time-facial-emotion-recognition">View Project →</a>
 
 </td>
 
