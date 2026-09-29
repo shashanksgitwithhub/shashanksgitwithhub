@@ -221,7 +221,7 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 
 <td width="50%" valign="top">
 
-<h3>Emotion Recognition Using Deep Learning</h3>
+<h3>Real-Time Facial Emotion Recognition Using CNN</h3>
 
 Deep learning project for facial emotion recognition using FER2013, image classification, and computer vision.
 
