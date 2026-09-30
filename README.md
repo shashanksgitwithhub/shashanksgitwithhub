@@ -256,10 +256,6 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 
 Personal cloud storage and file management platform built around UGREEN NAS infrastructure with controlled storage access and administration.
 
-<br>
-
-<img width="512" height="512" alt="ugreen-nas" src="https://github.com/user-attachments/assets/58b19458-aed5-43df-a8da-6a3c125869ff"/>
-
 <br><br>
 
 <code>UGREEN NAS</code>
