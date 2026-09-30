@@ -172,7 +172,7 @@ Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=githubactions,docker,aws" height="35">
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws,&perline=3)](https://skillicons.dev)
 
 <br><br>
 
