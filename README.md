@@ -122,7 +122,7 @@ Production-oriented AWS infrastructure built with Terraform, focusing on automat
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes" height="35">
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes)](https://skillicons.dev)
 
 <br><br>
 
@@ -147,7 +147,7 @@ Hands-on Linux server administration focused on configuration, automation, monit
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible" height="35">
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible)](https://skillicons.dev)
 
 <br><br>
 
@@ -199,7 +199,7 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <code>S3</code>
 →
@@ -234,7 +234,7 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="35">
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv)](https://skillicons.dev)
 
 <br><br>
 
