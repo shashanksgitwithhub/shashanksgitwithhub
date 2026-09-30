@@ -195,6 +195,8 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,&perline=3)](https://skillicons.dev)
+
 <code>S3</code>
 →
 <code>CloudFront</code>
@@ -247,6 +249,10 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 <h3>CloudVault</h3>
 
 Personal cloud storage and file management platform built around UGREEN NAS infrastructure with controlled storage access and administration.
+
+<br>
+
+<img width="512" height="512" alt="ugreen-nas" src="https://github.com/user-attachments/assets/58b19458-aed5-43df-a8da-6a3c125869ff" />
 
 <br><br>
 
