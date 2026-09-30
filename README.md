@@ -163,12 +163,16 @@ Hands-on Linux server administration focused on configuration, automation, monit
 
 Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize, and deploy applications through Amazon ECR.
 
-[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws,&perline=3)](https://skillicons.dev)
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws)](https://skillicons.dev)
 
 <code>GitHub Actions</code>
 <code>Docker</code>
 <code>AWS ECR</code>
 <code>CI/CD</code>
+
+<br>
 
 <a href="https://github.com/shashanksgitwithhub/production-cicd-pipeline">View Project →</a>
 
@@ -181,12 +185,17 @@ Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize,
 
 Serverless resume platform built with AWS and Terraform, including static hosting, CDN, DNS, API, visitor counter, and database.
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+<br>
 
-<code>GitHub Actions</code>
-<code>Docker</code>
-<code>AWS ECR</code>
-<code>CI/CD</code>
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,html,css,js,python)](https://skillicons.dev)
+
+<code>AWS S3</code>
+<code>CloudFront</code>
+<code>Route 53</code>
+<code>Lambda</code>
+<code>API Gateway</code>
+<code>DynamoDB</code>
+<code>Terraform</code>
 
 <a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
 
@@ -203,18 +212,12 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 
 Deep learning project for facial emotion recognition using FER2013, image classification, and computer vision.
 
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv)](https://skillicons.dev)
-
-<br><br>
 
 <code>Python</code>
 <code>TensorFlow</code>
 <code>Keras</code>
 <code>OpenCV</code>
-
-<br><br>
 
 <a href="https://github.com/shashanksgitwithhub/real-time-facial-emotion-recognition">View Project →</a>
 
@@ -233,8 +236,6 @@ Personal cloud storage and file management platform built around UGREEN NAS infr
 <code>Cloud Storage</code>
 <code>Linux</code>
 <code>Networking</code>
-
-<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
