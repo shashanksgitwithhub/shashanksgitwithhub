@@ -115,6 +115,7 @@ Application Development
 
 <td width="50%" valign="top">
 
+##Project-1
 <h3>Enterprise Infrastructure Platform</h3>
 
 Production-oriented AWS infrastructure built with Terraform, focusing on automation, Linux, containers, monitoring, security, and CI/CD.
@@ -139,6 +140,7 @@ Production-oriented AWS infrastructure built with Terraform, focusing on automat
 
 <td width="50%" valign="top">
 
+##Project-2
 <h3>Production Linux Server Administration & Automation</h3>
 
 Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
@@ -166,6 +168,7 @@ Hands-on Linux server administration focused on configuration, automation, monit
 
 <td width="50%" valign="top">
 
+##Project-3
 <h3>Production CI/CD Pipeline with Docker</h3>
 
 Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
@@ -189,6 +192,7 @@ Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 <td width="50%" valign="top">
 
+##Project-4
 <h3>Serverless Cloud Resume Platform</h3>
 
 Serverless resume platform built with AWS and Terraform, including static hosting, CDN, DNS, API, visitor counter, and database.
@@ -223,6 +227,7 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 
 <td width="50%" valign="top">
 
+##Project-5
 <h3>Real-Time Facial Emotion Recognition Using CNN</h3>
 
 Deep learning project for facial emotion recognition using FER2013, image classification, and computer vision.
@@ -246,13 +251,14 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 
 <td width="50%" valign="top">
 
+##Project-6
 <h3>CloudVault</h3>
 
 Personal cloud storage and file management platform built around UGREEN NAS infrastructure with controlled storage access and administration.
 
 <br>
 
-<img width="512" height="512" alt="ugreen-nas" src="https://github.com/user-attachments/assets/58b19458-aed5-43df-a8da-6a3c125869ff" />
+<img width="512" height="512" alt="ugreen-nas" src="https://github.com/user-attachments/assets/58b19458-aed5-43df-a8da-6a3c125869ff"/>
 
 <br><br>
 
