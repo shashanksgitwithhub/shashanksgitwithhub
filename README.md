@@ -124,15 +124,11 @@ Production-oriented AWS infrastructure built with Terraform, focusing on automat
 
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes)](https://skillicons.dev)
 
-<br><br>
-
 <code>AWS</code>
 <code>Terraform</code>
 <code>Linux</code>
 <code>Docker</code>
 <code>Kubernetes</code>
-
-<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
@@ -145,18 +141,12 @@ Production-oriented AWS infrastructure built with Terraform, focusing on automat
 
 Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
 
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible)](https://skillicons.dev)
-
-<br><br>
 
 <code>Linux</code>
 <code>Ubuntu</code>
 <code>Bash</code>
 <code>Ansible</code>
-
-<br><br>
 
 <a href="YOUR_PROJECT_LINK">View Project →</a>
 
@@ -171,20 +161,14 @@ Hands-on Linux server administration focused on configuration, automation, monit
 ## Project - 3
 <h3>Production CI/CD Pipeline with Docker</h3>
 
-Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
-
-<br>
+Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize, and deploy applications through Amazon ECR.
 
 [![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws,&perline=3)](https://skillicons.dev)
-
-<br><br>
 
 <code>GitHub Actions</code>
 <code>Docker</code>
 <code>AWS ECR</code>
 <code>CI/CD</code>
-
-<br><br>
 
 <a href="https://github.com/shashanksgitwithhub/production-cicd-pipeline">View Project →</a>
 
@@ -197,25 +181,12 @@ Automated application delivery using GitHub Actions, Docker, and Amazon ECR.
 
 Serverless resume platform built with AWS and Terraform, including static hosting, CDN, DNS, API, visitor counter, and database.
 
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-<code>S3</code>
-→
-<code>CloudFront</code>
-→
-<code>Route 53</code>
-
-<br><br>
-
-<code>API Gateway</code>
-→
-<code>Lambda</code>
-→
-<code>DynamoDB</code>
-
-<br><br>
+<code>GitHub Actions</code>
+<code>Docker</code>
+<code>AWS ECR</code>
+<code>CI/CD</code>
 
 <a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
 
