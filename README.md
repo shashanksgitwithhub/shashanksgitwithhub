@@ -45,7 +45,7 @@ I enjoy turning infrastructure concepts into hands-on projects and continuously 
 
 <img src="https://skillicons.dev/icons?i=aws,terraform" height="55">
 
-<br><br>
+<br>
 
 <b>AWS</b><br>
 EC2 · VPC · IAM · S3<br>
@@ -61,7 +61,7 @@ DynamoDB · RDS · CloudWatch
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,git,githubactions" height="55">
 
-<br><br>
+<br>
 
 <b>DevOps Tools</b><br>
 Docker · Kubernetes<br>
@@ -77,7 +77,7 @@ CI/CD Automation
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" height="55">
 
-<br><br>
+<br>
 
 <b>System Administration</b><br>
 Linux · Ubuntu<br>
@@ -93,7 +93,7 @@ Processes · Monitoring
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js" height="55">
 
-<br><br>
+<br>
 
 <b>Programming</b><br>
 Python<br>
