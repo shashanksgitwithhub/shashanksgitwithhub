@@ -387,6 +387,8 @@ My current focus is building practical projects that combine these areas into co
 
 ## Connect With Me
 
+<br>
+
 <div align="center">
 
 <a href="https://shashanktj.com">
@@ -401,7 +403,7 @@ My current focus is building practical projects that combine these areas into co
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
 <h3>Building. Automating. Learning.</h3>
 
