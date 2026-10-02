@@ -255,7 +255,7 @@ Personal cloud storage and file management platform built around UGREEN NAS infr
 
 <img src="https://skillicons.dev/icons?i=aws" height="45">
 
-<br><br>
+<br>
 
 <b>Cloud</b>
 
@@ -267,7 +267,7 @@ AWS Infrastructure
 
 <td align="center" width="16%">
 
-<h2>→</h2>
+<h1>→</h1>
 
 </td>
 
@@ -275,7 +275,7 @@ AWS Infrastructure
 
 <img src="https://skillicons.dev/icons?i=terraform" height="45">
 
-<br><br>
+<br>
 
 <b>Infrastructure</b>
 
@@ -287,7 +287,7 @@ Terraform / IaC
 
 <td align="center" width="16%">
 
-<h2>→</h2>
+<h1>→</h1>
 
 </td>
 
@@ -295,7 +295,7 @@ Terraform / IaC
 
 <img src="https://skillicons.dev/icons?i=linux,docker" height="45">
 
-<br><br>
+<br>
 
 <b>Systems</b>
 
@@ -307,7 +307,7 @@ Linux / Containers
 
 <td align="center" width="16%">
 
-<h2>→</h2>
+<h1>→</h1>
 
 </td>
 
@@ -315,7 +315,7 @@ Linux / Containers
 
 <img src="https://skillicons.dev/icons?i=githubactions,kubernetes" height="45">
 
-<br><br>
+<br>
 
 <b>DevOps</b>
 
