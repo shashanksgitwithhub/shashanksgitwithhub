@@ -117,21 +117,23 @@ Application Development
 <td width="50%" valign="top">
 
 ## Project - 1
-<h3>Enterprise Infrastructure Platform</h3>
+<h3>Serverless Cloud Resume Platform</h3>
 
-Production-oriented AWS infrastructure built with Terraform, focusing on automation, Linux, containers, monitoring, security, and CI/CD.
+Serverless resume platform built with AWS and Terraform, including static hosting, CDN, DNS, API, visitor counter, and database.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,html,css,js,python)](https://skillicons.dev)
 
-<code>AWS</code>
+<code>AWS S3</code>
+<code>CloudFront</code>
+<code>Route 53</code>
+<code>Lambda</code>
+<code>API Gateway</code>
+<code>DynamoDB</code>
 <code>Terraform</code>
-<code>Linux</code>
-<code>Docker</code>
-<code>Kubernetes</code>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+<a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
 
 </td>
 
@@ -182,23 +184,21 @@ Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize,
 <td width="50%" valign="top">
 
 ## Project - 4
-<h3>Serverless Cloud Resume Platform</h3>
+<h3>Enterprise Infrastructure Platform</h3>
 
-Serverless resume platform built with AWS and Terraform, including static hosting, CDN, DNS, API, visitor counter, and database.
+Production-oriented AWS infrastructure built with Terraform, focusing on automation, Linux, containers, monitoring, security, and CI/CD.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,html,css,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes)](https://skillicons.dev)
 
-<code>AWS S3</code>
-<code>CloudFront</code>
-<code>Route 53</code>
-<code>Lambda</code>
-<code>API Gateway</code>
-<code>DynamoDB</code>
+<code>AWS</code>
 <code>Terraform</code>
+<code>Linux</code>
+<code>Docker</code>
+<code>Kubernetes</code>
 
-<a href="https://github.com/shashanksgitwithhub/serverless-cloud-resume-platform">View Project →</a>
+<a href="YOUR_PROJECT_LINK">View Project →</a>
 
 </td>
 
