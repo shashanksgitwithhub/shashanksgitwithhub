@@ -146,10 +146,14 @@ Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize,
 
 [![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws)](https://skillicons.dev)
 
+<br>
+
 <code>GitHub Actions</code>
 <code>Docker</code>
 <code>AWS ECR</code>
 <code>CI/CD</code>
+
+<br>
 
 <a href="https://github.com/shashanksgitwithhub/production-cicd-pipeline">View Project →</a>
 
@@ -185,6 +189,8 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 
 ## Project - 4
 <h3>Enterprise Infrastructure Platform</h3>
+
+<br>
 
 Production-oriented AWS infrastructure built with Terraform, focusing on automation, Linux, containers, monitoring, security, and CI/CD.
 
@@ -232,6 +238,7 @@ Hands-on Linux server administration focused on configuration, automation, monit
 Personal cloud storage and file management platform built around UGREEN NAS infrastructure with controlled storage access and administration.
 
 <br><br>
+<br>
 
 <code>UGREEN NAS</code>
 <code>Cloud Storage</code>
