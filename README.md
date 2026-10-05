@@ -190,8 +190,6 @@ Deep learning project for facial emotion recognition using FER2013, image classi
 ## Project - 4
 <h3>Enterprise Infrastructure Platform</h3>
 
-<br>
-
 Production-oriented AWS infrastructure built with Terraform, focusing on automation, Linux, containers, monitoring, security, and CI/CD.
 
 <br>
