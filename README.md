@@ -140,18 +140,18 @@ Serverless resume platform built with AWS and Terraform, including static hostin
 <td width="50%" valign="top">
 
 ## Project - 2
-<h3>Production Linux Server Administration & Automation</h3>
+<h3>Production CI/CD Pipeline with Docker</h3>
 
-Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
+Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize, and deploy applications through Amazon ECR.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws)](https://skillicons.dev)
 
-<code>Linux</code>
-<code>Ubuntu</code>
-<code>Bash</code>
-<code>Ansible</code>
+<code>GitHub Actions</code>
+<code>Docker</code>
+<code>AWS ECR</code>
+<code>CI/CD</code>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+<a href="https://github.com/shashanksgitwithhub/production-cicd-pipeline">View Project →</a>
 
 </td>
 
@@ -162,22 +162,22 @@ Hands-on Linux server administration focused on configuration, automation, monit
 <td width="50%" valign="top">
 
 ## Project - 3
-<h3>Production CI/CD Pipeline with Docker</h3>
+<h3>Production Linux Server Administration & Automation</h3>
 
-Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize, and deploy applications through Amazon ECR.
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,aws)](https://skillicons.dev)
-
-<code>GitHub Actions</code>
-<code>Docker</code>
-<code>AWS ECR</code>
-<code>CI/CD</code>
+Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
 
 <br>
 
-<a href="https://github.com/shashanksgitwithhub/production-cicd-pipeline">View Project →</a>
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible)](https://skillicons.dev)
+
+<code>Linux</code>
+<code>Ubuntu</code>
+<code>Bash</code>
+<code>Ansible</code>
+
+<br>
+
+<a href="YOUR_PROJECT_LINK">View Project →</a>
 
 </td>
 
