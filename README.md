@@ -162,22 +162,22 @@ Automated CI/CD pipeline using GitHub Actions and Docker to build, containerize,
 <td width="50%" valign="top">
 
 ## Project - 3
-<h3>Production Linux Server Administration & Automation</h3>
+<h3>Real-Time Facial Emotion Recognition Using CNN</h3>
 
-Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible)](https://skillicons.dev)
-
-<code>Linux</code>
-<code>Ubuntu</code>
-<code>Bash</code>
-<code>Ansible</code>
+Deep learning project for facial emotion recognition using FER2013, image classification, and computer vision.
 
 <br>
 
-<a href="YOUR_PROJECT_LINK">View Project →</a>
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv)](https://skillicons.dev)
+
+<code>Python</code>
+<code>TensorFlow</code>
+<code>Keras</code>
+<code>OpenCV</code>
+
+<br>
+
+<a href="https://github.com/shashanksgitwithhub/real-time-facial-emotion-recognition">View Project →</a>
 
 </td>
 
@@ -209,18 +209,18 @@ Production-oriented AWS infrastructure built with Terraform, focusing on automat
 <td width="50%" valign="top">
 
 ## Project - 5
-<h3>Real-Time Facial Emotion Recognition Using CNN</h3>
+<h3>Production Linux Server Administration & Automation</h3>
 
-Deep learning project for facial emotion recognition using FER2013, image classification, and computer vision.
+Hands-on Linux server administration focused on configuration, automation, monitoring, SSH, users, permissions, and operational practices.
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,ansible)](https://skillicons.dev)
 
-<code>Python</code>
-<code>TensorFlow</code>
-<code>Keras</code>
-<code>OpenCV</code>
+<code>Linux</code>
+<code>Ubuntu</code>
+<code>Bash</code>
+<code>Ansible</code>
 
-<a href="https://github.com/shashanksgitwithhub/real-time-facial-emotion-recognition">View Project →</a>
+<a href="YOUR_PROJECT_LINK">View Project →</a>
 
 </td>
 
