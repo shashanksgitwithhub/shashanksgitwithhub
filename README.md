@@ -30,7 +30,7 @@ I am a Cloud and DevOps-focused engineer interested in building reliable, automa
 
 My work focuses on cloud infrastructure, Linux administration, Infrastructure as Code, containerization, CI/CD, and automation.
 
-I enjoy turning infrastructure concepts into hands-on projects and continuously improving my skills through practical implementation.
+I enjoy turning infrastructure concepts into hands-on projects and continuously learned and improved my skills through practical implementation.
 
 ---
 
