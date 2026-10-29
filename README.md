@@ -412,6 +412,6 @@ My current focus is building practical projects that combine these areas into co
 
 <br>
 
-<h3>Building. Automating. Learning.</h3>
+<h3>Build. Automate. Learn.</h3>
 
 </div>
